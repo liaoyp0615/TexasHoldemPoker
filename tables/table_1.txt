@@ -1,0 +1,11 @@
+ A new table is created at 2023-11-28 19:57:03.519196
+ The players are:
+  Player 1 : liaoyp with 0 chips
+  Player 2 : zengyj with 100 chips
+  Player 3 : luojs with 800 chips
+
+ log: You all in! You have 300 chips!  @ 2023-11-28 19:57:15.461456
+ log: *Player 'liaoyp'  - 300 chips   <0>  @ 2023-11-28 19:57:15.462841
+ log: *Player 'zengyj'  - 200 chips   <100>  @ 2023-11-28 19:57:34.576891
+ log: *Player 'luojs'  + 500 chips   <800>  @ 2023-11-28 19:57:37.373857
+ log: Quit the game!  @ 2023-11-28 19:57:39.185718

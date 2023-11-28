@@ -1,0 +1,24 @@
+ A new table is created at 2023-11-28 17:07:08.756553
+ The players are:
+  Player 0 : liaoyp with 100 chips
+  Player 1 : zengyj with 300 chips
+  Player 2 : luojs with 300 chips
+
+ log: This is a test log!  @ 2023-11-28 17:07:08.758987
+  log: *Player 'zhangsan'  - 200 chips   <0>  @ 2023-11-28 17:49:57.533905
+ log: Quit the game!  @ 2023-11-28 17:50:05.876649
+ log: *Player 'zhangsan'  + 200 chips   <200>  @ 2023-11-28 17:50:26.039707
+ log: *Player 'wangwu'  + 300 chips   <600>  @ 2023-11-28 17:50:36.318333
+ log: *Player 'wangwu'  - 300 chips   <0>  @ 2023-11-28 17:54:55.497698
+ log: *Player 'lisi'  - 200 chips   <100>  @ 2023-11-28 18:08:04.500531
+ log: Ranking:  @ 2023-11-28 18:08:16.880318
+ log:   Rank 1: Player 'zhangsan' with 300 chips  @ 2023-11-28 18:08:16.893999
+ log:   Rank 2: Player 'wangwu' with 300 chips  @ 2023-11-28 18:08:16.895389
+ log:   Rank 3: Player 'lisi' with 100 chips  @ 2023-11-28 18:08:16.896660
+ log: Quit the game!  @ 2023-11-28 18:08:20.253031
+ log: Quit the game!  @ 2023-11-28 19:18:44.432525
+ log: Ranking:  @ 2023-11-28 19:23:39.171057
+ log:   Rank 1: Player 'liaoyp' with 300 chips  @ 2023-11-28 19:23:39.172236
+ log:   Rank 2: Player 'zengyj' with 300 chips  @ 2023-11-28 19:23:39.173190
+ log:   Rank 3: Player 'luojs' with 300 chips  @ 2023-11-28 19:23:39.174289
+ log: *Player 'liaoyp'  - 200 chips   <100>  @ 2023-11-28 19:23:49.759482
