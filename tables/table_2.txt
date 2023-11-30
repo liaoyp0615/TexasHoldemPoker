@@ -1,0 +1,10 @@
+ log: You all in! You have 300 chips!  @ 2023-11-30 17:21:15.968477
+ log: *Player 'liaoyp'  - 300 chips   <0>  @ 2023-11-30 17:21:15.971368
+ log: *Player 'chenh'  + 300 chips   <600>  @ 2023-11-30 17:21:26.152135
+ log: Player 'liaoyp' is set to '2'  @ 2023-11-30 17:21:52.803490
+ log: *Player 'liaoyp'  - 200 chips   <-200>  @ 2023-11-30 17:22:12.445705
+ log: *Player 'chenh'  + 200 chips   <800>  @ 2023-11-30 17:22:21.888097
+ log: You can not all in! You have -200 chips!  @ 2023-11-30 17:22:28.883547
+ log: *Player 'liaoyp'  - 0 chips   <-200>  @ 2023-11-30 17:22:28.885033
+ log: *Player 'liaoyp'  - -200 chips   <0>  @ 2023-11-30 17:22:43.297903
+ log: Quit the game!  @ 2023-11-30 17:22:55.080513

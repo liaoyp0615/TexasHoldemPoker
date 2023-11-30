@@ -1,10 +1,10 @@
 # A simple try to play Texas Hold' em Poker
 
 ## Folder
-single_game: offline version
-script: steering file
-table: repository of game table
-agent: online version (TODO)
+1. single_game: offline version
+2. script: steering file
+3. table: repository of game table
+4. agent: online version (TODO)
 
 ## To do list:
 - [ ] new class `poker`
@@ -15,4 +15,4 @@ agent: online version (TODO)
 
 
 ## Log
-1. 2023-11-28 Yipu Liao <liaoyp[AT]ihep.ac.cn> create the game, and design a tool to count chips
+1. 2023-11-28 Yipu Liao <liaoypkirk[AT]163.com> create the game, and design a tool to count chips

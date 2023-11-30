@@ -9,7 +9,7 @@ class Game:
         self.test = kwargs.pop('test', False)
         self.verbose = kwargs.pop('verbose', False)
         self.table_name = kwargs.pop('table_name', 'table_test')
-        self.table_file = f"./tables/{self.table_name}.txt"
+        self.table_file = f"../tables/{self.table_name}.txt"
         self.player_number = player_number
         self.init_chips = init_chips
         self.chips_on_table = 0
@@ -25,10 +25,11 @@ class Game:
         print("   2. Load a old game: you need to load the table file")
         print("   3. Show all players and their chips")
         print("   4. Show the rank of all players")
-        print("   5. bet for a player")
-        print("   6. get_chips for a player")
-        print("   7. set role for a player")
-        print("   8. quit the game")
+        print("   5. Bet for a player")
+        print("   6. Get_chips for a player")
+        print("   7. Set role for a player")
+        print("   8. Quit the game")
+        print("   9. Show the options")
         
         pass
     
@@ -203,6 +204,17 @@ class Game:
             print("Quit the game!")
             self.add_log_to_table(log="Quit the game!")
             sys.exit(0)
+        if opt == 9:
+            print(" The options you can use are:")
+            print("   1. Start a new game: you need to set the player number, name, and chips")
+            print("   2. Load a old game: you need to load the table file")
+            print("   3. Show all players and their chips")
+            print("   4. Show the rank of all players")
+            print("   5. Bet for a player")
+            print("   6. Get_chips for a player")
+            print("   7. Set role for a player")
+            print("   8. Quit the game")
+            print("   9. Show the options")
         pass
 
     def start_game(self, **kwargs):
